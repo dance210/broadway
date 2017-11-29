@@ -16,3 +16,19 @@ h3 {
 p {
   font-size: 14px;
 }
+
+.header {
+  background-color: gray;
+  color: white;
+}
+
+.footer {
+  color: white;
+  font-size: 11px;
+  background-color: dimgray;
+}
+
+#border {
+  color: white;
+  background-color: gray;
+}
