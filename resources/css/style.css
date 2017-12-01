@@ -3,6 +3,11 @@ html {
   font-family: Helvetica;
 }
 
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
 h2 {
   font-size: 32px;
   font-weight: bold;
@@ -18,7 +23,7 @@ p {
 }
 
 .header {
-  background-color: gray;
+  background-image: url(../images/the-flatiron-building.png);
   color: white;
 }
 
@@ -26,9 +31,15 @@ p {
   color: white;
   font-size: 11px;
   background-color: dimgray;
+  text-align: left;
+}
+
+.top {
+  color: white;
+  font-size: 18px;
 }
 
 #border {
   color: white;
-  background-color: gray;
+  background-image: url(../images/the-flatiron-building.png);
 }
